@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learning , Artificial Intelligence ,
 
--   Now studying Linear Regression
-Regularization to Avoid Overfitting
-Logistic Regression for Classification
-Gradient Descent
-Supervised Learning**
+-   Now studying Linear Regression,
+Regularization to Avoid Overfitting,
+Logistic Regression for Classification,
+Gradient Descent,
+Supervised Learning
 
 <h3 align="left">I HATE JAVA</h3>
 <p align="left">
