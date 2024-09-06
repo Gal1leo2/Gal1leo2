@@ -6,13 +6,9 @@
 - 🌱 I’m currently learning **Machine Learning , Artificial Intelligence ,
 
 -   Now studying Linear Regression
-Category: Regularization to Avoid Overfitting
 Regularization to Avoid Overfitting
-Category: Logistic Regression for Classification
 Logistic Regression for Classification
-Category: Gradient Descent
 Gradient Descent
-Category: Supervised Learning
 Supervised Learning**
 
 <h3 align="left">Connect with me:</h3>
