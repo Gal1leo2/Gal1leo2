@@ -11,7 +11,7 @@ Logistic Regression for Classification
 Gradient Descent
 Supervised Learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I HATE JAVA</h3>
 <p align="left">
 </p>
 
