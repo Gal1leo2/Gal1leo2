@@ -1,6 +1,6 @@
 ## Hi there 👋
 ไม่ต้องเข้ามาส่อง ผม set private ไว้หมด อิอิ
-
+I hate JAVA
 <!--
 **Gal1leo2/Gal1leo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
