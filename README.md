@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuvis Kerdpramote</h1>
-<img src="https://i.redd.it/hbhflwf8qsb91.jpg" > </img>
+<img src="https://i.redd.it/hbhflwf8qsb91.jpg" align ="center"> </img>
 
 <h3 align="center">A passionate frontend developer , data science and analysis</h3>
 
