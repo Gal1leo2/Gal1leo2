@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phuvis Kerdpramote</h1>
-<img src="https://i.redd.it/hbhflwf8qsb91.jpg"> </img>
+<img src="https://i.redd.it/hbhflwf8qsb91.jpg" > </img>
+
 <h3 align="center">A passionate frontend developer , data science and analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gal1leo2&label=Profile%20views&color=0e75b6&style=flat" alt="gal1leo2" /> </p>
